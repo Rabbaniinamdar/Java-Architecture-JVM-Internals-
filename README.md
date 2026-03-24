@@ -1,3 +1,4 @@
+# 🔵 **Java Architecture & JVM Internals – Complete Guide (Execution Flow, Memory Management, Class Loading, and Garbage Collection)**
 
 ## 🟦 ① What Is Java Architecture?
 
