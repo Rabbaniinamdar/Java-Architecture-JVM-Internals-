@@ -196,7 +196,7 @@ The most important feature shown in the diagram is that **bytecode sits between 
 As long as a compatible JVM exists for a platform, the same Java program can run without modification. This is why Java follows the principle **“Write Once, Run Anywhere”**.
 
 ---
-# 🔵 **1. JVM Lifecycle & Execution Flow **
+# 🔵 1. JVM Lifecycle & Execution Flow
 
 When we write a Java program, it does not directly run on your machine like a normal `.exe` file. Instead, it goes through a well-defined lifecycle inside something called the **JVM (Java Virtual Machine)**. Understanding this lifecycle is very important, especially for interviews and real-world debugging.
 
